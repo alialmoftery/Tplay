@@ -1,5 +1,5 @@
 token= NTEwMTk0OTQwNzIzMjAwMDAw.Dsi5IA.PCecE5JgtdZqsC-PowLYwWMJ63M
-owner= 478954803657965569
+owner= 514114378384015372
 prefix= T
 game= Type Thelp
 stayinchannel=true 
